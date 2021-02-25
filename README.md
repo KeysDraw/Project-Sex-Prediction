@@ -6,7 +6,4 @@ Use multiple models, for the sake of trying out, try to find sample values that 
 ## GaussianProcessClassifier
     -Abr. GP(C)
     -designed to solve regression and probabilistic classification problems
-
-### Advantages
-* The prediction interpolates the observations (at least for regular kernels)
-* The prediction is probabilistic so that one can compute empirical confidence intervals and decide based on those if one should refit (online fitting, adaptive fitting) the prediction in some region of interest.
+    -User manual: https://scikit-learn.org/stable/modules/gaussian_process.html#gaussian-process
