@@ -6,6 +6,7 @@ Use multiple models, for the sake of trying out, try to find sample values that 
 ## GaussianProcessClassifier
     -Abr. GP(C)
     -designed to solve regression and probabilistic classification problems
+    -Gaussian Processes are a generalization of the Gaussian probability distribution and can be used as the basis for sophisticated non-parametric machine learning algorithms for classification and regression.
     -User manual: https://scikit-learn.org/stable/modules/gaussian_process.html#gaussian-process
 
 ## RandomForestClassifier
